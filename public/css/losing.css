@@ -1,0 +1,19 @@
+
+ /*.page_background{*/
+	/*background-repeat: no-repeat; */
+ /*background-size: cover;*/
+ /*background-color: #000;*/
+ /*background-image: url(http://www.justhangman.com/images/hangman_0.gif);*/
+/*}*/
+body  {
+ background-repeat: no-repeat; 
+ background-size: 100% 100%;
+/* background-color: #000;*/
+ background-image: url(http://25.media.tumblr.com/b7d1049970a07acb61f40a30a681bd59/tumblr_mjdmlo2hJz1qaebjjo1_400.gif);
+ }
+
+
+  {
+  background-color: red;
+   transition: background-color 7s;*/
+ }body
